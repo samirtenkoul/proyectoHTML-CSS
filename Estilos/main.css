@@ -1,0 +1,66 @@
+.links a {
+    text-decoration: none;
+    font-family: Segoe UI;
+    color:#90a4ae;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 16px;
+}
+
+.header img {
+    opacity: 0.8;
+}
+.header {
+    height: 50px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    border-top: 0.5px solid lightgray;
+    border-right: 0.5px solid lightgray;
+    border-bottom: 0.5px solid lightgray;
+}
+.logo {
+    border-left: 0.5px solid lightgray;
+    border-right: 0.5px solid lightgray;
+}
+.body{
+    border-right: 0.5px solid lightgray;
+    border-left: 0.5px solid lightgray;
+    border-bottom: 0.5px solid lightgray;
+    display:flex;
+    justify-content:space-between;
+}
+.footer p {
+    font-family: 'Segoe UI';
+    text-align: center;
+    opacity: 0.7;
+}
+.links {
+    height: 50px;
+    display: flex;
+    justify-content:space-between;
+}
+.links a:hover{
+    font-weight: bold;
+   /* border: 2px solid dimgray;*/
+    color: #3a3a3a;
+    border-bottom: 2px solid #3a3a3a;
+}
+.header .logo a img{
+    animation-name: animLogo;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+}
+
+@keyframes animLogo{
+    0%{
+        transform: translateX(-1000px);
+    }
+    50%{
+        transform: translateX(-500px);
+    }
+    100%{
+        transform: translateX(0px);
+    }
+}    
+

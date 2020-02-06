@@ -1,6 +1,7 @@
 # proyectoHTML-CSS
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/samirtenkoul/proyectosHTL-CSS/miravisuals.png)
+
 
 Prototipo con CSS, FlexBox/Grid, Animaciones y Multimedia
 

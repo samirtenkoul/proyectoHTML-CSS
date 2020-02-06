@@ -1,9 +1,6 @@
 # proyectoHTML-CSS
 
-![alt text](https://raw.githubusercontent.com/samirtenkoul/proyectoHTML-CSS/miravisuals.png)
-
-
-Prototipo con CSS, FlexBox/Grid, Animaciones y Multimedia
+**Prototipo con CSS, FlexBox/Grid, Animaciones y Multimedia**
 
 1. Estructura (ampliar los requisitos): incluir secciones y elementos relevantes para la interfaz.
 

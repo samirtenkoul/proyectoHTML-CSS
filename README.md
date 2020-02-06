@@ -1,5 +1,7 @@
 # proyectoHTML-CSS
 
+![alt text](http://url/to/img.png)
+
 Prototipo con CSS, FlexBox/Grid, Animaciones y Multimedia
 
 1. Estructura (ampliar los requisitos): incluir secciones y elementos relevantes para la interfaz.

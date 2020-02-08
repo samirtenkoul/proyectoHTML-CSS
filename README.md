@@ -12,7 +12,7 @@
 
 5. Tipografías: realizar un trabajo excelente en la elección y combinación de tipografías congruentes con el propósito de la interfaz.
 
-6. Apariencia (Grid o Flexbox):	la página deberá utilizr  Grid o Flexbox correctamente.
+6. Apariencia (Grid o Flexbox):	la página deberá utilizar  Grid o Flexbox correctamente.
 
 7. Imágenes: añadir imágenes que cumplen con los requisitos de diseño, calidad, formato….
 
